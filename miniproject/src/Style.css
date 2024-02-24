@@ -1,0 +1,26 @@
+/* Style.css */
+
+.c-disppackagetable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .c-disppackagetable th,
+  .c-disppackagetable td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .c-disppackagetable th {
+    background-color: #f2f2f2;
+  }
+  
+  .c-disppackagetable tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .c-disppackagetable tr:hover {
+    background-color: #dddddd;
+  }
+  
